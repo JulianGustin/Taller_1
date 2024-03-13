@@ -107,4 +107,4 @@ Se elevó el número menor obtenido anteriormente por 1/3 que equivale a la raiz
 ## Capitales
 ***
 ## Distancias
-[Punt10](https://github.com/JulianGustin/RETO3/blob/main/10.py)
+[Punto10](https://github.com/JulianGustin/RETO3/blob/main/10.py)
