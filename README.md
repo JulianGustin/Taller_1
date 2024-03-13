@@ -27,7 +27,7 @@ Se adjunta la captura del resultado del quiz
 ***
 ## MayorDeTres
 ***
-## parOImpar
+## ParOImpar
 Para este programa, se usó el operador módulo (%) y con condicionales se determinaba si el número era par o impar (si el modulo es 0, es impar)  
 Para números con decimales, se usó la función math incluida en python para la determinar la función piso del número ingresado por el usuario. 
 ## flowchart del ejercicio 
