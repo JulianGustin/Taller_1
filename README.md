@@ -63,13 +63,13 @@ flowchart TD
     A(Inicio);
     A--> B[números x, y reales];
     B-->C[sum = x + y];
-    C-->D[mostrar("la suma de tus números es:" sum)];
+    C-->D["mostrar(¨la suma de tus números es:¨ sum)"];
     D-->E[número z real];
     E-->F{sum >= z ?};
-    F-->|No|G[("mostrar el tercer número <br>es menor a la suma de los primeros")];
+    F-->|No|G[(¨mostrar el tercer número <br>es menor a la suma de los primeros¨)];
     F-->|Sí|H{sum = z ?};
-    H-->|No|I[mostrar ("el tercer número es mayor <br>que la suma de los primeros")];
-    H-->|Sí|J[mostrar ("el tercer número es igual <br>a la suma de los primeros")];
+    H-->|No|I["mostrar (¨el tercer número es mayor <br>que la suma de los primeros¨)"];
+    H-->|Sí|J["mostrar (¨el tercer número es igual <br>a la suma de los primeros¨)"];
     J-->K(Fin);
     I-->K;
     G-->K;
@@ -81,7 +81,7 @@ flowchart TD
 Para este punto, y con base a 5 inputs del usuario, se pidió:  
 - [El promedio](#promedio)
 - [La mediana](#mediana)
-- [El promedio multiplicativo](#Promedio_Multiplicativo)
+- [El promedio multiplicativo](#PromedioMultiplicativo)
 - [Ordenar los números de forma ascendente](#ascendente)
 - [Ordenar los números de forma descendente](#descendente)
 - [La potencia del mayor número elevado al menor número](#potencia)
@@ -91,7 +91,7 @@ Se le pidió primero al usuario ingresar 5 números reales (tipo float)
 Para el promedio, simplemente se sumó los 5 inputs y se los dividió entre 5 
 ### Mediana
 Para la mediana, se usaron una serie de condicionales, comparaciones y swaps para ordenar la lista de manera ascendente, y luego se imprimió el 3er número 
-### Promedio multiplicativo 
+### Promediomultiplicativo 
 Para este, se multiplicaron todos los números de la lista y se los elevó a 1/5 que equivaldría a la raiz quinta de el producto de la multiplicación. 
 ### Ascendente
 Simplemente se imprimió la lista ya ordenada en un punto anterior 
