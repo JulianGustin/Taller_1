@@ -26,6 +26,10 @@ Se adjunta la captura del resultado del quiz
 ![image](https://github.com/JulianGustin/Taller_1/assets/158980531/5ae9f7ea-5a1e-40ff-aede-3a0575512f1a)
 ***
 ## MayorDeTres
+Tomando tres números reales cualesquiera, denotados como (x), (y), y (z).
+Si ((x - y) > 0) y ((x - z) > 0), entonces (x) es el mayor valor.
+Si no lo es, significa que (z) o (y) son valores mayores.
+Por lo tanto, si ((z - y) > 0), entonces (z) es el mayor valor; de lo contrario, (y) es el mayor valor.  
 [punto2](https://github.com/JulianGustin/Taller_1/blob/main/2.py) 
 ***
 ## ParOImpar
@@ -45,6 +49,10 @@ flowchart TD;
 [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
 ***
 ## Multiplos 
+Tomando dos números reales cualesquiera, denotados como (x) e (y).
+Dividimos el valor de (x) entre (y).
+Si el residuo de esa división es cero, entonces (x) es un múltiplo de (y).
+
 ### Flowchart
 ```mermaid
 flowchart TD
@@ -111,9 +119,13 @@ Se elevó el número menor obtenido anteriormente por 1/3 que equivale a la raiz
 [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
 ***
 ## Frecuencia
+Dado un valor de frecuencia en hertz (Hz) cualquiera.
+El tipo de radiación aplicado depende de esa frecuencia, según los valores específicos para cada tipo de radiación.  
 [punto8](https://github.com/JulianGustin/Taller_1/blob/main/8.py)
 ***
 ## Capitales
+Dado un país de América cualquiera.
+La función y el diccionario ingresados en el código devolverán la capital respectiva de ese país.  
 [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
 ***
 ## Distancias
