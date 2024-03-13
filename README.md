@@ -68,7 +68,7 @@ flowchart TD
 [punto4](https://github.com/JulianGustin/Taller_1/blob/main/4.py)
 ***
 ## Punto5
-Se toman 2 inputs iniciales de valores floratntes que vienen a ser los primeros 2 números reales los cuales se suman, esta suma se compara con un tercer input y se indica si esta es mayor, igual o menor a dicho input  
+Se toman 2 inputs iniciales de valores flotantes que vienen a ser los primeros 2 números reales los cuales se suman, esta suma se compara con un tercer input y se indica si esta es mayor, igual o menor a dicho input  
 ### Flowchart 
 ```mermaid
  graph TD;
