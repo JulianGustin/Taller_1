@@ -60,6 +60,7 @@ flowchart TD
 [punto4](https://github.com/JulianGustin/Taller_1/blob/main/4.py)
 ***
 ## Punto5
+Se toman 2 inputs iniciales de valores floratntes que vienen a ser los primeros 2 números reales los cuales se suman, esta suma se compara con un tercer input y se indica si esta es mayor, igual o menor a dicho input
 ### Flowchart 
 ```mermaid
  graph TD;
@@ -80,6 +81,7 @@ flowchart TD
 [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
 ***
 ## VocaloConsonante
+Se toma 1 input, el cual se descarta si es un valor numérico, y sino, se verifica si es igual a alguna de las vocales tanto minúsculas como mayúsculas, o si por el contrario es un espacio vacío o no es una letra, si ninguno de estos casos se cumple, se especifica que es entonces una consonante
 [punto6](https://github.com/JulianGustin/Taller_1/blob/main/6.py)
 ***
 ## Operaciones
