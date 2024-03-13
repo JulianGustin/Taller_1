@@ -69,7 +69,7 @@ flowchart TD
     C-->D["mostrar(¨la suma de tus números es:¨ sum)"];
     D-->E[número z real];
     E-->F{sum >= z ?};
-    F-->|No|G[(¨mostrar el tercer número <br>es menor a la suma de los primeros¨)];
+    F-->|No|G["mostrar (¨el tercer número <br>es menor a la suma de los primeros¨)"];
     F-->|Sí|H{sum = z ?};
     H-->|No|I["mostrar (¨el tercer número es mayor <br>que la suma de los primeros¨)"];
     H-->|Sí|J["mostrar (¨el tercer número es igual <br>a la suma de los primeros¨)"];
