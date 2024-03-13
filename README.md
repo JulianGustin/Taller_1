@@ -101,3 +101,10 @@ Se imprimió la lista pero ordenandola al revés
 Se asignaron dos variables con el valor mayor y el menor de la lista, y posteriormente se operó estas dos variables para obtener el resultado deseado
 ### Raiz
 Se elevó el número menor obtenido anteriormente por 1/3 que equivale a la raiz cubica 
+***
+## Frecuencia
+***
+## Capitales
+***
+## Distancias
+
