@@ -117,4 +117,5 @@ Se elevó el número menor obtenido anteriormente por 1/3 que equivale a la raiz
 [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
 ***
 ## Distancias
+Se toma 1 input que equivale a una distancia en km que se quiera verificar que tanto tarda la luz, el sonido en aire, el vehículo comercial más rapido y Usain Bolt, Este input es dividido por la velocidad en km/h de los ya mencionados, y se muestra en el terminal el cociente entre ellos, siendo este las horas que le toma a cada uno recorrer la distancia  
 [punto10](https://github.com/JulianGustin/Taller_1/blob/main/10.py) 
