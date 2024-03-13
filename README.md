@@ -10,15 +10,15 @@ Desarrollo del taller 1 de la clase "programación de computadores"
 ***
 ## Lista de contenidos 
 1.  [Python Beginner Quiz](#quiz) 
-2.  [Mayor de 3 números](#mayordetres) [punto2](https://github.com/JulianGustin/Taller_1/blob/main/2.py) 
-3.  [Determinar si es par o impar](#paroimpar) [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
-4.  [Determinar si a es multiplo de b](#multiplos) [punto4](https://github.com/JulianGustin/Taller_1/blob/main/4.py)
-5.  [Programa que lee tres números reales y determina si la suma de los dos primeros es mayor, menor o igual que el tercer número](#punto5) [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
-6.  [Vocal o consonante](#vocaloconsonante) [punto6](https://github.com/JulianGustin/Taller_1/blob/main/6.py)
-7.  [Operaciones](#operaciones) [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
-8.  [Frecuencia de onda](#frecuencia) [punto8](https://github.com/JulianGustin/Taller_1/blob/main/8.py)
-9.  [Capitales](#capitales) [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
-10. [Operaciones con distancias](#distancias) [punto10](https://github.com/JulianGustin/Taller_1/blob/main/10.py) 
+2.  [Mayor de 3 números](#mayordetres) 
+3.  [Determinar si es par o impar](#paroimpar) 
+4.  [Determinar si a es multiplo de b](#multiplos) 
+5.  [Programa que lee tres números reales y determina si la suma de los dos primeros es mayor, menor o igual que el tercer número](#punto5) 
+6.  [Vocal o consonante](#vocaloconsonante) 
+7.  [Operaciones](#operaciones) 
+8.  [Frecuencia de onda](#frecuencia) 
+9.  [Capitales](#capitales) 
+10. [Operaciones con distancias](#distancias) 
 ***
 ## Quiz
 
@@ -105,7 +105,7 @@ Se imprimió la lista pero ordenandola al revés
 ### Potencia
 Se asignaron dos variables con el valor mayor y el menor de la lista, y posteriormente se operó estas dos variables para obtener el resultado deseado
 ### Raiz
-Se elevó el número menor obtenido anteriormente por 1/3 que equivale a la raiz cubica 
+Se elevó el número menor obtenido anteriormente por 1/3 que equivale a la raiz cubica  
 [PuntosImpares](https://github.com/JulianGustin/Taller_1/blob/main/Taller1-Notebook-Impares.ipynb)
 ***
 ## Frecuencia
