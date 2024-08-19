@@ -1,5 +1,5 @@
 # Ingenieros Megatróficos 
-![logo]([https://ibb.co/j3jPc13](https://i.ibb.co/440n654/A-adir-un-t-tulo.png))
+![logo](https://i.ibb.co/440n654/A-adir-un-t-tulo.png)
 ***
 # Taller 1
 Desarrollo del taller 1 de la clase "programación de computadores"
